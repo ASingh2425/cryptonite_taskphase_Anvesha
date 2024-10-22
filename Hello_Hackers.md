@@ -14,6 +14,8 @@ I got  the output as:
 `Success! Here is your flag:`
 `pwn.college{ARZhMbAU5AhS3QMduiqlOL0pMj2.ddjNyUDL0kTM2czW}`
 
+![Screenshot 2024-10-22 074910](https://github.com/user-attachments/assets/9c9d0133-bf3c-4a26-9c7f-2dabed03e6e0)
+
 
 ## Challenge 2 : Intro to Arguments
 
@@ -24,3 +26,5 @@ prompt: `hello hackers`
 **OUTPUT RECEIVED**
 `Success! Here is your flag:
 pwn.college{UJRSjU-PVy49KSO7CJe_MNFTK4k.dhjNyUDL0kTM2czW}`
+
+![Screenshot 2024-10-22 075029](https://github.com/user-attachments/assets/02e4cc61-de58-4d43-8b1d-c8bd7055c2d9)
